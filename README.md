@@ -4,7 +4,7 @@ This repository contains my project submissions in order to complete and graduat
 Feel free to explore.
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/mihir135/computer_vision_nano_degree/blob/master/images/CVND.PNG">
+  <img width="700" height="500" src="https://github.com/Mayurpatel2992/Computer-Vision-Nano-Degree-Udacity/blob/54c1868d6549b733b5b46b6471c5e4a1e7bc8124/images/CVND.PNG">
 </p>
 
 <hr>
